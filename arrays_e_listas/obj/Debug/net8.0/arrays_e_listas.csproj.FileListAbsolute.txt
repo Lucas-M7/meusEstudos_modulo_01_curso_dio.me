@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\bin\Debug\net8.0\arrays_e_listas.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\bin\Debug\net8.0\arrays_e_listas.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\bin\Debug\net8.0\arrays_e_listas.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\bin\Debug\net8.0\arrays_e_listas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\bin\Debug\net8.0\arrays_e_listas.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\refint\arrays_e_listas.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\arrays_e_listas.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\arrays_e_listas\obj\Debug\net8.0\ref\arrays_e_listas.dll

@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\bin\Debug\net8.0\operadores_condicionais.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\bin\Debug\net8.0\operadores_condicionais.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\bin\Debug\net8.0\operadores_condicionais.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\bin\Debug\net8.0\operadores_condicionais.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\bin\Debug\net8.0\operadores_condicionais.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\refint\operadores_condicionais.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\operadores_condicionais.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_01\tipos_de_operadores\operadores_condicionais\obj\Debug\net8.0\ref\operadores_condicionais.dll

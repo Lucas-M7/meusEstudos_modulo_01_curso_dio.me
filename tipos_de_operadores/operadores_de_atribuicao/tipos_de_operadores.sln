@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tipos_de_operadores", "tipos_de_operadores.csproj", "{B3066883-10DD-44E1-83A0-2823F0DF02FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3066883-10DD-44E1-83A0-2823F0DF02FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3066883-10DD-44E1-83A0-2823F0DF02FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3066883-10DD-44E1-83A0-2823F0DF02FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3066883-10DD-44E1-83A0-2823F0DF02FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AB2F90D-78F0-46A6-A18F-BBD3BCDF28A9}
+	EndGlobalSection
+EndGlobal
